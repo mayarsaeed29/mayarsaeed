@@ -24,12 +24,22 @@ My work spans the full data lifecycle — from cleaning and transforming large d
 
 ## Portfolio Projects
 
-My portfolio focuses on practical projects across **data analytics, data science, and data engineering**, including:
+### 1. Large-Scale Data Pipeline & Reporting Automation
 
-* Large-Scale Data Pipeline & Reporting Automation
-* Internal Analytics & Reporting Application
-* B2C Data Cleaning & Reconciliation
-* Exploratory Data Analysis & Machine Learning Projects
+A technical case study of a large-scale Python and PostgreSQL pipeline designed to process millions of operational records, automate data ingestion, and ensure data quality.
+
+**Technologies:** Python, Pandas, SQL, PostgreSQL, Power BI, Automation
+
+[View Project](https://github.com/mayarsaeed29/large-scale-data-pipeline)
+
+### 2. Analytics & Reporting Application
+
+A technical case study of a desktop analytics application designed to provide controlled access to large datasets through advanced filtering, efficient pagination, and a layered backend architecture.
+
+**Technologies:** Python, PySide/Qt, FastAPI, PostgreSQL, SQL
+
+[View Project](https://github.com/mayarsaeed29/analytics-reporting-application)
+
 
 ## Current Focus
 
